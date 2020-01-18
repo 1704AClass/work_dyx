@@ -3,12 +3,15 @@ X:\ecilipsedaima\health_parent\health_common\src\main\java\com\itheima\pojo\Menu
 X:\ecilipsedaima\health_parent\health_common\src\main\java\com\itheima\entity\QueryPageBean.java
 X:\ecilipsedaima\health_parent\health_common\src\main\java\com\itheima\entity\PageResult.java
 X:\ecilipsedaima\health_parent\health_common\src\main\java\com\itheima\constant\MessageConstant.java
+X:\ecilipsedaima\health_parent\health_common\src\main\java\com\itheima\utils\POIUtils.java
 X:\ecilipsedaima\health_parent\health_common\src\main\java\com\itheima\pojo\Setmeal.java
 X:\ecilipsedaima\health_parent\health_common\src\main\java\com\itheima\pojo\CheckGroup.java
 X:\ecilipsedaima\health_parent\health_common\src\main\java\com\itheima\pojo\Permission.java
 X:\ecilipsedaima\health_parent\health_common\src\main\java\com\itheima\pojo\User.java
 X:\ecilipsedaima\health_parent\health_common\src\main\java\com\itheima\pojo\CheckItem.java
+X:\ecilipsedaima\health_parent\health_common\src\main\java\com\itheima\utils\QiniuUtils.java
 X:\ecilipsedaima\health_parent\health_common\src\main\java\com\itheima\pojo\Order.java
 X:\ecilipsedaima\health_parent\health_common\src\main\java\com\itheima\pojo\OrderSetting.java
 X:\ecilipsedaima\health_parent\health_common\src\main\java\com\itheima\pojo\Role.java
+X:\ecilipsedaima\health_parent\health_common\src\main\java\com\itheima\constant\RedisConstant.java
 X:\ecilipsedaima\health_parent\health_common\src\main\java\com\itheima\pojo\Member.java

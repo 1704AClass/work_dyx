@@ -1,5 +1,7 @@
 package com.itheima.dao;
 
+import java.util.List;
+
 import com.github.pagehelper.Page;
 import com.itheima.pojo.CheckItem;
 
@@ -10,4 +12,5 @@ public interface CheckItemDao {
     public void deleteById(Integer id);
     public void edit(CheckItem checkItem);
     public CheckItem findById(Integer id);
+    public List<CheckItem> findAll();
 }

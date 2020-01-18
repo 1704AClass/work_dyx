@@ -252,5 +252,6 @@
 		<module>health_service_provider</module>
 		<module>health_backend</module>
 		<module>health_pojo</module>
+		<module>health_jobs</module>
 	</modules>
 </project>
