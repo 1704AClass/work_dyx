@@ -1,8 +1,12 @@
 X:\ecilipsedaima\health_parent\health_service_provider\src\main\java\com\itheima\dao\CheckItemDao.java
+X:\ecilipsedaima\health_parent\health_service_provider\src\main\java\com\itheima\service\impl\MemberServiceImpl.java
 X:\ecilipsedaima\health_parent\health_service_provider\src\main\java\com\itheima\service\impl\SetmealServiceImpl.java
 X:\ecilipsedaima\health_parent\health_service_provider\src\main\java\com\itheima\service\impl\OrderSettingServiceImpl.java
+X:\ecilipsedaima\health_parent\health_service_provider\src\main\java\com\itheima\dao\OrderDao.java
 X:\ecilipsedaima\health_parent\health_service_provider\src\main\java\com\itheima\service\impl\CheckGroupServiceImpl.java
 X:\ecilipsedaima\health_parent\health_service_provider\src\main\java\com\itheima\dao\CheckGroupDao.java
+X:\ecilipsedaima\health_parent\health_service_provider\src\main\java\com\itheima\dao\MemberDao.java
+X:\ecilipsedaima\health_parent\health_service_provider\src\main\java\com\itheima\service\impl\OrderServiceImpl.java
 X:\ecilipsedaima\health_parent\health_service_provider\src\main\java\com\itheima\dao\OrderSettingDao.java
 X:\ecilipsedaima\health_parent\health_service_provider\src\main\java\com\itheima\dao\SetmealDao.java
 X:\ecilipsedaima\health_parent\health_service_provider\src\main\java\com\itheima\service\impl\CheckItemServiceImpl.java

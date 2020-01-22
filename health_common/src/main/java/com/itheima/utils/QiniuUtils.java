@@ -19,7 +19,7 @@ import java.io.InputStream;
 public class QiniuUtils {
     public  static String accessKey = "ApKQpUqiBZ5vsydNlCrpAVf9YB0MUIOHDBqS735F";
     public  static String secretKey = "nsX6Ow90KgV8OsZwOxFzmfnwYVxsdmKa1dits5aj";
-    public  static String bucket = "hjzy";
+    public  static String bucket = "itcasthealth_space_1";
 
     public static void upload2Qiniu(String filePath,String fileName){
         //构造一个带指定Zone对象的配置类

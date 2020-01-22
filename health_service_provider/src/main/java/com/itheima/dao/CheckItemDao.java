@@ -1,9 +1,9 @@
 package com.itheima.dao;
 
-import java.util.List;
-
 import com.github.pagehelper.Page;
 import com.itheima.pojo.CheckItem;
+
+import java.util.List;
 
 public interface CheckItemDao {
     public void add(CheckItem checkItem);

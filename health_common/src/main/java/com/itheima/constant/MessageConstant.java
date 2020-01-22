@@ -1,5 +1,4 @@
 package com.itheima.constant;
-
 /**
  * 消息常量
  */
